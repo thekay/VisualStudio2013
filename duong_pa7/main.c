@@ -7,7 +7,7 @@
 
 -	Statistic can be seen at record.dat
 -	Con: I can't figure how to truly random the mathematical operators.
-		 
+	//test	 
 
 */
 int main (void)
