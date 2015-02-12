@@ -1,0 +1,12 @@
+Mutation(s) found in sequence 1
+Pair 1 flipped pair
+Pair 11 mismatched pair
+Pair 14 mismatched pair
+Mutation(s) found in sequence 2 (subsequence)
+Pair 3 mismatched pair
+Pair 5 flipped pair
+
+
+Random paired:
+TATGTCTGAACCGAC
+ATACAGACTTGGCTG

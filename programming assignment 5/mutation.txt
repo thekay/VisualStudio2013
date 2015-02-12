@@ -1,0 +1,8 @@
+Pair 1 flipped
+Pair 11 mismatched
+Pair 14 mismatched
+Pair 15 mismatched
+Pair 16 flipped
+Pair 26 mismatched
+Pair 29 mismatched
+Pair 30 flipped
